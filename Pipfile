@@ -1,0 +1,21 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+pandas = "*"
+numpy = "*"
+bs4 = "*"
+requests = "*"
+requests_html = "0.10.0"
+python-doi = "*"
+jupyter = "*"
+cloudscraper = "*"
+pypdf = "*"
+selenium = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.8"
