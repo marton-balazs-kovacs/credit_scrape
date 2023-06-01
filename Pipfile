@@ -14,6 +14,7 @@ jupyter = "*"
 cloudscraper = "*"
 pypdf = "*"
 selenium = "*"
+"pdfminer.six" = "*"
 
 [dev-packages]
 
